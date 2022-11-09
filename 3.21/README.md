@@ -74,3 +74,8 @@ Takes one argument status and returns a process ID of dead children or returns -
 
 ## Sample Output of the Program  
 ![image](https://user-images.githubusercontent.com/58753266/200119413-01a17525-5604-4b12-8625-305c24a3c014.png)
+
+## References
+* https://man7.org/linux/man-pages/man2/wait.2.html
+* https://www.geeksforgeeks.org/wait-system-call-c/
+* https://www.geeksforgeeks.org/fork-system-call/
