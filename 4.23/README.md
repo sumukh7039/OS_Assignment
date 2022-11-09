@@ -70,3 +70,8 @@ pthread_join() returns zero when it completes successfully. Any other return val
 ## Sample Output of the Program
 ![image](https://user-images.githubusercontent.com/58753266/200716045-6a752f03-e856-4cf5-bbaf-9d955fb33d33.png)
 
+## References
+* https://github.com/Ayush3910/OS-Project
+* https://www.geeksforgeeks.org/multithreading-c-2/
+* https://www.mkssoftware.com/docs/man3/pthread_join.3.asp
+* https://www.ibm.com/docs/en/zos/2.3.0?topic=functions-pthread-create-create-thread
