@@ -68,3 +68,5 @@ pthread_join() returns zero when it completes successfully. Any other return val
 - Because of `pthread_join(th1, NULL);` we wait till thread1 has completely executed.
 
 ## Sample Output of the Program
+![image](https://user-images.githubusercontent.com/58753266/200716045-6a752f03-e856-4cf5-bbaf-9d955fb33d33.png)
+
