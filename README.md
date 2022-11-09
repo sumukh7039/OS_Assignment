@@ -1,6 +1,6 @@
 # CS 252 Operating Systems
 
-### Assignment
+## Assignment
 
 ### [Question 1: Chapter 3.21](https://github.com/sumukh7039/OS_Assignment/tree/main/3.21)
 
@@ -8,6 +8,6 @@
 
 ### Submitted by:
 
-#### Ashrith DR
+#### Sumukh C Prakash
 
-#### 201EE117
+#### 201EE160
